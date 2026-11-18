@@ -28,7 +28,6 @@ class SkillSerializer(serializers.ModelSerializer):
         fields = [
             "name",
             "category",
-            ""
             "proficiency",
         ]
     
